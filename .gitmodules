@@ -1,0 +1,6 @@
+[submodule "chatter-backend"]
+	path = chatter-backend
+	url = https://github.com/unlicht/chatter-backend
+[submodule "chatter-frontend"]
+	path = chatter-frontend
+	url = https://github.com/unlicht/chatter-frontend
